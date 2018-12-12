@@ -27,7 +27,7 @@
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.1.0",
     "cssnano": "^4.0.5",
-    "parcel-bundler": "^1.9.7",
+    "parcel-bundler": "^1.10.3",
     "parcel-plugin-babel-env": "0.0.19",
     "vue-template-compiler": "^2.5.17"
   }
